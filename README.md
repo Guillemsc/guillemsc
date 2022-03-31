@@ -6,7 +6,7 @@
 
 I'm a passionate **game developer** based in Barcelona, Spain. I've graduated in **Game Design and Development** _(literally)_ in **2019**, and I've been pursuing the path of game engineering since **2014**. 
 
-- Currently working full time at [Omnidrone](http://www.omnidrone.net/).
+- Currently working full time at [Omnidrone](http://www.omnidrone.net/) a [Scopely](https://scopely.com/) studio.
 - Also creating Unity assets at [Juce-Assets](https://github.com/Juce-Assets).
 
 ### Reach me at :earth_americas:
