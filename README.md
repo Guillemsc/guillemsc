@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](github-readme-stats-ten-wine.vercel.app/api?username=guillemsc&count_private=true&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats-ten-wine.vercel.app/api?username=guillemsc&count_private=true&theme=tokyonight&show_icons=true)
 
 ### About me :video_game:
 
