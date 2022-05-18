@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=guillemsc&count_private=true&theme=tokyonight&show_icons=true)
+![](github-readme-stats-k056vclvo-guillemsc.vercel.app/api?username=guillemsc&count_private=true&theme=tokyonight&show_icons=true)
 
 ### About me :video_game:
 
