@@ -6,8 +6,6 @@
 
 I'm a passionate **game developer** based in Catalonia, Spain. I graduated from Game Design and Development in **2019**, and I've been making games since then, both alone, or with awesome people.  
 
-- Also creating Unity assets at [Juce-Assets](https://github.com/Juce-Assets).
-
 ### Reach me at :earth_americas:
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillemsc/)](https://www.linkedin.com/in/guillemsc/)
