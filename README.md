@@ -4,7 +4,7 @@
 
 ### About me :video_game:
 
-I'm a passionate **game developer** based in Catalonia, Spain. I graduated from Game Design and Development in **2019**, and I've been making games since then, both alone, or with awesome people.  
+I'm a passionate **game developer** based in Catalonia, Spain. I graduated from a Videogame Design and Development degree in **2019**, and I've been making games since then, both alone, or with awesome people.  
 
 ### Reach me at :earth_americas:
 
