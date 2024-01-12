@@ -10,3 +10,4 @@ I'm a passionate **game developer** based in Catalonia, Spain. I graduated from 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillemsc/)](https://www.linkedin.com/in/guillemsc/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/6uillem/)](https://twitter.com/6uillem/)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=mastodon&logoColor=white&link=https://mastodon.social/@guillems)](https://mastodon.social/@guillems)
