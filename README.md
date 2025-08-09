@@ -5,7 +5,9 @@
 ### About me :video_game:
 
 I'm a passionate **game developer** based in Catalonia, Spain. I graduated from a Videogame Design and Development degree in **2019**, and I've been making games since then, both alone, and with awesome people.  
-Currently working at Ubisoft Barcelona.
+
+### Working at 🛠️
+Ubisoft Barcelona.
 
 ### Reach me at 🌍
 
